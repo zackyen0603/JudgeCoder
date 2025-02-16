@@ -55,6 +55,10 @@ Below is a summary of the main features and functionalities implemented in this 
 
 ---
 
+
+## UML Graph
+![UML Graph](/JudgeCoder_UML.jpg)
+
 ## Workflow
 
 1. **Generate Code**: The `LLMProgrammer` class generates initial source code based on the given prompt.
